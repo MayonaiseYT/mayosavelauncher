@@ -54,8 +54,8 @@ border: none;
 }
 
 .topnav a.active {
-  background-color:#444;
-  color:white;
+  background-color:#222;
+  color:orange;
 border: none;
   font-family: arial;
 }
