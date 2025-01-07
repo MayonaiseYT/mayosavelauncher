@@ -15,7 +15,7 @@ body {
   background-color: #111;
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
-background-image: url('images/Mayonaise.png');
+background-image: url('https://i.imgur.com/IqxTr19.png');
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: 100% 100%;
@@ -23,7 +23,7 @@ background-image: url('images/Mayonaise.png');
 
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: black;
   font-family: arial;
 border: none;
 }
@@ -46,8 +46,8 @@ border: none;
 
 .topnav a:hover {
   background-color: #222;
-  color: white;
-text-decoration: underline;
+  color: orange;
+text-decoration: none;
   font-family: arial;
 transition-duration: 0.2s;
 border: none;
@@ -122,10 +122,10 @@ transition-duration: 0.2s;
  
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #777; 
+  background: blue; 
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: yellow; 
+  background: purple; 
 }
