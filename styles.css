@@ -87,8 +87,6 @@ color: grey;
 
 button {
   position: relative;
-
-
 background-color:black;
 border-radius: 90px;
 width: 400px;
@@ -100,7 +98,6 @@ transition-duration: 0.2s;
 
 button:hover {
   position: relative;
-
 background-color:#333;
 border-radius: 90px;
 width: 400px;
